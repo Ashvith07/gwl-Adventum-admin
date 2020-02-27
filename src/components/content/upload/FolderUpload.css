@@ -1,0 +1,17 @@
+.small-card-shift-right{
+    height:150px;
+    width: 95%;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.small-card-shift-left{
+    height:150px;
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.table{
+    width: 80%
+}
