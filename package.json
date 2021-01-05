@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.5.1",
     "@mdi/js": "^4.5.95",
     "@mdi/react": "^1.2.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.9.1",
     "convert-csv-to-json": "0.0.15",
